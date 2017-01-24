@@ -20,5 +20,7 @@ public class HabitacionDelPanico {
     
    private String yeeeeeeeee;
    private String yoooooo;
+   private String yuuuuuuuu;
+   
     
 }
