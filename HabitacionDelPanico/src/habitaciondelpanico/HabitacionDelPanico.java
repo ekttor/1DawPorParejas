@@ -18,4 +18,6 @@ public class HabitacionDelPanico {
         // TODO code application logic here
     }
     
+   private String yeeeeeeeee;
+    
 }
